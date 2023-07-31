@@ -1,0 +1,61 @@
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.exe
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.deps.json
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.runtimeconfig.json
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.dll
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.pdb
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.csproj.AssemblyReference.cache
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.Form1.resources
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.Properties.Resources.resources
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.csproj.GenerateResource.cache
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.AssemblyInfoInputs.cache
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.AssemblyInfo.cs
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.csproj.CoreCompileInputs.cache
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.dll
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\refint\Physio Therapy Clinic.dll
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.pdb
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.genruntimeconfig.cache
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\ref\Physio Therapy Clinic.dll
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.UserControl1.resources
+C:\Users\aamus\source\repos\Physio Therapy Clinic\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.frminfo.resources
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.exe
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.deps.json
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.runtimeconfig.json
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.dll
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.pdb
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.csproj.AssemblyReference.cache
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.Form1.resources
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.frminfo.resources
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.Properties.Resources.resources
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.UserControl1.resources
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.csproj.GenerateResource.cache
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.AssemblyInfoInputs.cache
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.AssemblyInfo.cs
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.csproj.CoreCompileInputs.cache
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.dll
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\refint\Physio Therapy Clinic.dll
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.pdb
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.genruntimeconfig.cache
+C:\Users\aamus\source\repos\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\ref\Physio Therapy Clinic.dll
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.exe
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.deps.json
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.runtimeconfig.json
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.dll
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\bin\Debug\net6.0-windows\Physio Therapy Clinic.pdb
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.csproj.AssemblyReference.cache
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.Form1.resources
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.frminfo.resources
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.Properties.Resources.resources
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.UserControl1.resources
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.csproj.GenerateResource.cache
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.GeneratedMSBuildEditorConfig.editorconfig
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.AssemblyInfoInputs.cache
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.AssemblyInfo.cs
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.csproj.CoreCompileInputs.cache
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.dll
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\refint\Physio Therapy Clinic.dll
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.pdb
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio Therapy Clinic.genruntimeconfig.cache
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\ref\Physio Therapy Clinic.dll
+F:\NU UNI\BMD\Projects\Student Addmission Form\Physio Therapy Clinic\obj\Debug\net6.0-windows\Physio_Therapy_Clinic.Form2.resources
